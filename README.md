@@ -1,9 +1,6 @@
 <!-- Your title -->
 ## Hi, I'm Andika Tulus Pangestu, a WEB Developer 🚀 from Indonesia.
 
-<img src= "https://github.com/Juel07/Juel07/blob/master/github-banner-BW.png"></img>
-<br>
-<br>
 Welcome to my GitHub! I'm Andika Tulus Pangestu, a Social Science graduate who's transitioning into Software Engineering. Through self-study and enrolling in a coding Bootcamp at Progate Codes, I am building a solid foundation in both frontend and backend technologies and languages. You can find me on tech twitter <a href = "https://twitter.com/andikatulusp">AndikaPangestu</a> where I'm currently enjoying and <a href="https://www.linkedin.com/in/andika-tulus-pangestu-343884175/">linkedin</a>.
 
 ### ⚡ Relevant achievements.
