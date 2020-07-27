@@ -34,4 +34,5 @@ Although, I think I'll wait to learn React before I build the website.
 - Website: coming soon
 - Story Blog: <a href = "https://coretangaguna.eu.org">Coretangaguna</a>
 <br>
+Crafted with &hearts; by Andika Pangestu
 <br>
